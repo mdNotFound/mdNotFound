@@ -17,7 +17,7 @@ AI/ML Engineer & Entrepreneur — Co-Founder & Founding Developer of **HealthKar
 
 **Languages:** Python, JavaScript, TypeScript, Java
 
-**ML/DL:** scikit-learn, XGBoost, LightGBM, PyTorch, Transfer Learning (EfficientNet), HuggingFace Transformers, JAX/Diffrax
+**ML/DL:** scikit-learn, XGBoost, LightGBM, PyTorch, Transfer Learning (EfficientNet), HuggingFace Transformers
 
 **Data:** Pandas, NumPy, TF-IDF/NLP preprocessing, Matplotlib, Seaborn
 
@@ -26,7 +26,7 @@ AI/ML Engineer & Entrepreneur — Co-Founder & Founding Developer of **HealthKar
 **Tools:** Git, Kaggle, Weights & Biases, VS Code
 
 ## 🌱 Currently Learning / Building
-- Neural SDEs applied to stochastic dynamical systems (research collaboration)
+- Neural SDEs applied to stochastic dynamical systems
 - RAG architectures and transformer pipelines for applied NLP
 - Deepening deep learning fundamentals — CNNs, transfer learning, segmentation, Grad-CAM
 
