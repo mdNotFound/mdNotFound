@@ -11,7 +11,7 @@ AI/ML Engineer & Entrepreneur — Co-Founder & Founding Developer of **HealthKar
 - **[taxi-fare-prediction](https://github.com/mdNotFound/taxi-fare-prediction)** — Regression pipeline predicting NYC taxi fares, comparing 9 models with a tuned voting ensemble
 - **[customer-churn-prediction](https://github.com/mdNotFound/customer-churn-prediction)** — Churn prediction applied to a business problem
 
-*(More in progress: a Neural SDE research project using JAX/Diffrax, and a RAG-based MCQ solver using HuggingFace transformers + WandB tracking — coming soon.)*
+*(More in progress)*
 
 ## 🛠️ Tech Stack
 
