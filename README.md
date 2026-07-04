@@ -1,86 +1,41 @@
 # Hi, I'm Md Sahanawaz Hussain 👋
 
 ## 🚀 About Me
+AI/ML Engineer & Entrepreneur — Co-Founder & Founding Developer of **HealthKart24**, a healthcare platform with 200+ hospital and lab partnerships serving Tier 2/3 India. I build ML/DL pipelines end-to-end — from EDA to tuned model to submission — and I'm actively exploring research at the intersection of deep learning and applied AI systems.
 
-I'm a passionate software developer and data enthusiast with a strong foundation in **Python**, **JavaScript**, and **TypeScript**. I love building innovative solutions that make a difference and am always eager to learn new technologies.
+## 🎯 Featured ML/DL Projects
+
+- **[chest-xray-pathology-classification](https://github.com/mdNotFound/chest-xray-pathology-classification)** — Deep learning pipeline for multi-class chest X-ray pathology classification using CNNs and transfer learning (EfficientNet-B0)
+- **[comment-category-prediction](https://github.com/mdNotFound/comment-category-prediction)** — Multiclass NLP classifier (TF-IDF + LightGBM) handling severe class imbalance, with documented experimentation across Logistic Regression, XGBoost, and LightGBM
+- **[mushroom-binary-classification](https://github.com/mdNotFound/mushroom-binary-classification)** — Binary classification comparing 8 ML algorithms with hyperparameter tuning
+- **[taxi-fare-prediction](https://github.com/mdNotFound/taxi-fare-prediction)** — Regression pipeline predicting NYC taxi fares, comparing 9 models with a tuned voting ensemble
+- **[customer-churn-prediction](https://github.com/mdNotFound/customer-churn-prediction)** — Churn prediction applied to a business problem
+
+*(More in progress: a Neural SDE research project using JAX/Diffrax, and a RAG-based MCQ solver using HuggingFace transformers + WandB tracking — coming soon.)*
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- **Python** - Data Analysis, Machine Learning, Backend Development
-- **JavaScript** - Frontend Development, Node.js
-- **TypeScript** - Type-safe JavaScript development
-- **CSS** - Styling and responsive design
+**Languages:** Python, JavaScript, TypeScript, Java
 
-### Frameworks & Libraries
-- **Pandas** - Data manipulation and analysis
-- **NumPy** - Numerical computing
-- **React** - Frontend development
-- **Node.js** - Backend development
+**ML/DL:** scikit-learn, XGBoost, LightGBM, PyTorch, Transfer Learning (EfficientNet), HuggingFace Transformers, JAX/Diffrax
 
-### Tools & Technologies
-- **Git** - Version control
-- **GitHub** - Code collaboration
-- **VS Code** - Development environment
+**Data:** Pandas, NumPy, TF-IDF/NLP preprocessing, Matplotlib, Seaborn
 
-## 🎯 Highlighted Projects
+**Web/Other:** React, Node.js, Vue.js
 
-### 📊 Data Analysis Projects
-- **[Demographic Data Analyzer](https://github.com/mdNotFound/808c7a2d)** - A Python project analyzing demographic data using Pandas (Part of FreeCodeCamp certification)
-- **[Mean-Variance-Standard Deviation Calculator](https://github.com/mdNotFound/280de85d)** - Statistical calculations for 3x3 matrices using NumPy
-- **[Probability Assignment](https://github.com/mdNotFound/231f8851)** - Probability calculations and statistical analysis
+**Tools:** Git, Kaggle, Weights & Biases, VS Code
 
-### 💻 Web Development Projects
-- **[Live Venue Booking](https://github.com/mdNotFound/Live-Venue-Booking)** - A venue booking platform built with JavaScript
-- **[NeuroVault](https://github.com/mdNotFound/NeuroVault)** - A modern web application with CSS styling
-- **[Blood Connect - Nearby Heroes](https://github.com/mdNotFound/70532edf)** - TypeScript-based application for connecting blood donors
+## 🌱 Currently Learning / Building
+- Neural SDEs applied to stochastic dynamical systems (research collaboration)
+- RAG architectures and transformer pipelines for applied NLP
+- Deepening deep learning fundamentals — CNNs, transfer learning, segmentation, Grad-CAM
 
-### 🔧 Management Systems
-- **[Employee Management System (EMS)](https://github.com/mdNotFound/d4f544e6)** - Console-based employee management system in Python
-- **[SkillSyncPro](https://github.com/mdNotFound/SkillSyncPro)** - Professional skill management platform
-
-## 🎓 Certifications
-
-- **FreeCodeCamp Data Analysis with Python** - Currently pursuing
-  - Demographic Data Analysis
-  - Statistical Calculations
-  - Data Visualization
-
-## 🌱 Currently Learning
-
-- Advanced Data Science techniques
-- Machine Learning algorithms
-- Full-stack TypeScript development
-- Cloud technologies and deployment
-
-## 💼 Top Skills
-
-- **Data Analysis & Visualization**
-- **Python Development**
-- **Web Development (Frontend & Backend)**
-- **Problem Solving**
-- **Statistical Analysis**
-- **Version Control (Git)**
-
-## 📈 GitHub Stats
-
-- 🏆 **44 contributions** in the last year
-- 📦 **13 repositories** and growing
-- ⭐ Multiple starred projects
-- 🤝 **1 follower** and building connections
+## 💼 Other Projects
+Web development and coursework projects (e-commerce site, venue booking platform, employee management system, FreeCodeCamp data analysis certification work) are also available in my repositories.
 
 ## 🤝 Connect with Me
-
-- 📧 **Email**: [Contact me through GitHub](https://github.com/mdNotFound)
 - 💼 **GitHub**: [@mdNotFound](https://github.com/mdNotFound)
-- 🌐 **Portfolio**: Check out my repositories below!
+- 🌐 **HealthKart24**: [healthkart24.com](https://healthkart24.com)
 
 ---
-
-*"Continuously learning, building, and contributing to the tech community. Let's connect and build something amazing together!"*
-
-### 🔥 Recent Activity
-- 🚀 Working on data analysis projects with Python and Pandas
-- 💡 Exploring TypeScript for full-stack development
-- 📚 Pursuing FreeCodeCamp certifications
-- 🛠️ Building practical applications and management systems
+*Building in ML/AI, one Kaggle competition and research thread at a time.*
