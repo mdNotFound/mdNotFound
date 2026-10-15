@@ -10,7 +10,6 @@ I also co-founded and helped build [HealthKart24](https://healthkart24.com), a h
 - **[Red Wine Quality Predictor](https://github.com/mdNotFound/red-wine-quality-predictor)** — Compares Random Forest and AdaBoost approaches, including threshold tuning and SMOTE to improve minority-class recall.
 - **[Taxi Fare Prediction](https://github.com/mdNotFound/taxi-fare-prediction)** — End-to-end regression workflow with feature engineering, nine model comparisons, tuning, and a voting ensemble.
 - **[Mushroom Binary Classification](https://github.com/mdNotFound/mushroom-binary-classification)** — Classification workflow covering data exploration, preprocessing, comparison of eight algorithms, and model tuning.
-- **[SIH 2025: Deep-Sea eDNA Analysis](https://github.com/mdNotFound/SIH-2025)** — Hackathon project exploring machine-learning approaches to taxonomic classification and biodiversity analysis from environmental DNA.
 - **[Live Venue Booking](https://github.com/mdNotFound/Live-Venue-Booking)** — Real-time booking feed built with Node.js, Express, and Socket.IO, with synchronized clients and live connection status.
 
 ## Skills
